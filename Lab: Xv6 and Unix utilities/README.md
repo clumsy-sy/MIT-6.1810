@@ -2,6 +2,10 @@
 
 This lab will familiarize you with xv6 and its system calls.
 
+```sh
+git checkout util
+```
+
 ## Build and run xv6(easy)
 
 ```sh
