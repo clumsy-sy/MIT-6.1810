@@ -31,7 +31,8 @@ CompileFlags:
 - [x] [Lab：Xv6 and Unix utilities](https://github.com/clumsy-sy/MIT-6.S081/tree/main/Lab:%20Xv6%20and%20Unix%20utilities)
 - [x] [Lab: system calls](https://github.com/clumsy-sy/MIT-6.S081/tree/main/Lab:%20system%20calls)
 - [x] Lab: page tables ( 20 年题目， 22年题目暂时为完成)
-- [] Lab: traps (进行中)
+- [x] Lab: traps
+- [x] Lab: Copy-on-Write Fork for xv6
 
 
 
