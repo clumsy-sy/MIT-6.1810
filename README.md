@@ -1,6 +1,6 @@
 # MIT 6.1810
 
-原课程 MIT-6.S081，本项目主要记录自己的学习笔记，以及 Lab
+原课程 MIT-6.S081，本项目主要记录自己的学习笔记，以及 Lab 结果
 
 
 ## 配置
@@ -30,9 +30,14 @@ CompileFlags:
 
 - [x] [Lab：Xv6 and Unix utilities](https://github.com/clumsy-sy/MIT-6.S081/tree/main/Lab:%20Xv6%20and%20Unix%20utilities)
 - [x] [Lab: system calls](https://github.com/clumsy-sy/MIT-6.S081/tree/main/Lab:%20system%20calls)
-- [x] Lab: page tables ( 20 年题目， 22年题目暂时为完成)
-- [x] Lab: traps
-- [x] Lab: Copy-on-Write Fork for xv6
+- [x] [Lab: page tables](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20page%20tables) (完成20 年题目，22年题目暂时未完成)
+- [x] [Lab: traps](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20traps)
+- [x] [Lab: Copy-on-Write Fork for xv6](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20Copy-on-Write%20Fork%20for%20xv6)
+- [x] Lab: Multithreading
+- [ ] Lab: networking
+- [ ] Lab: locks
+- [ ] Lab: file system
+- [ ] Lab: mmap (hard)
 
 
 
