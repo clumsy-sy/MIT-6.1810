@@ -34,9 +34,9 @@ CompileFlags:
 - [x] [Lab: traps](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20traps)
 - [x] [Lab: Copy-on-Write Fork for xv6](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20Copy-on-Write%20Fork%20for%20xv6)
 - [x] [Lab: Multithreading](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20Multithreading)
-- [ ] Lab: networking
-- [ ] Lab: locks
-- [ ] Lab: file system
+- [ ] Lab: networking (写驱动)
+- [x] [Lab: locks](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20locks)
+- [x] [Lab: file system](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20file%20system)
 - [ ] Lab: mmap (hard)
 
 
