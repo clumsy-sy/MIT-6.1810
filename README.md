@@ -33,7 +33,7 @@ CompileFlags:
 - [x] [Lab: page tables](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20page%20tables) (完成20 年题目，22年题目暂时未完成)
 - [x] [Lab: traps](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20traps)
 - [x] [Lab: Copy-on-Write Fork for xv6](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20Copy-on-Write%20Fork%20for%20xv6)
-- [x] Lab: Multithreading
+- [x] [Lab: Multithreading](https://github.com/clumsy-sy/MIT-6.1810/tree/main/Lab:%20Multithreading)
 - [ ] Lab: networking
 - [ ] Lab: locks
 - [ ] Lab: file system
